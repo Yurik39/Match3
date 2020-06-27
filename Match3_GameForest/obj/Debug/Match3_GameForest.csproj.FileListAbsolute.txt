@@ -1,0 +1,13 @@
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\bin\Debug\Match3_GameForest.exe.config
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\bin\Debug\Match3_GameForest.exe
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\bin\Debug\Match3_GameForest.pdb
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.csprojAssemblyReference.cache
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.frmMainMenu.resources
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.Properties.Resources.resources
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.csproj.GenerateResource.cache
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.csproj.CoreCompileInputs.cache
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.exe
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.pdb
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.frmGame.resources
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.Sprites.resources
+C:\Users\yurik\source\repos\Match3_GameForest\Match3_GameForest\obj\Debug\Match3_GameForest.frmEnd.resources
